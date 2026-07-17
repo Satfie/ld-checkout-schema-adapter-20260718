@@ -1,0 +1,9 @@
+{
+  "name": "checkout-schema-adapter",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": "./index.mjs",
+  "dependencies": {
+    "checkout-schema-runtime": "git+https://github.com/Satfie/ld-checkout-schema-runtime-20260718.git#d7bcb0cba0b689202954e9e316ce55a2046b9c3d"
+  }
+}
